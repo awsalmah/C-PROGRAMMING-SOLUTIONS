@@ -3,3 +3,14 @@
 * Purpose: Solve Exercise 														  *
 * Author: Aws Almahasneh 				  										  *
 **********************************************************************************/
+
+/*
+# Question 1 #
+sizeof(a) / sizeof(t) can't easily be checked for correctness.
+*/
+
+/*
+# Question 2 #
+a[d - '0']
+*/
+
